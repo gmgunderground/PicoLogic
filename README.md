@@ -25,3 +25,4 @@ NOT Device
 -
 Input A  -> GPIO6  -> Pin 9<br />
 Output Y -> GPIO22 -> Pin 29<br />
+
